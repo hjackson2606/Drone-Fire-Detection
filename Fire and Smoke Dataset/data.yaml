@@ -1,0 +1,7 @@
+path: C:\Users\hjack\OneDrive\Documents\GitHub\drone-fire-detection\Fire and Smoke Dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['fire', 'smoke']
