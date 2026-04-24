@@ -106,4 +106,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\hjack\OneDrive\Documents\GitHub\drone-fire-detection\runs\detect\yolo26n_base
+save_dir: C:\Users\hjack\OneDrive\Documents\GitHub\Drone-Fire-Detection\runs\detect\yolo26n_base

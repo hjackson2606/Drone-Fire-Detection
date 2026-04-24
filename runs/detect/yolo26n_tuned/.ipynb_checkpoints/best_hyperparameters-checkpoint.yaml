@@ -1,0 +1,11 @@
+# 32/40 iterations complete ✅ (178316.75s)
+# Results saved to C:\Users\hjack\OneDrive\Documents\GitHub\Drone-Fire-Detection\runs\detect\yolo26n_tuned
+# Best fitness=0.48176 observed at iteration 21
+# Best fitness metrics are {'metrics/precision(B)': 0.79507, 'metrics/recall(B)': 0.68485, 'metrics/mAP50(B)': 0.76617, 'metrics/mAP50-95(B)': 0.48176, 'val/box_loss': 1.42572, 'val/cls_loss': 0.96236, 'val/dfl_loss': 0.021, 'fitness': 0.48176}
+# Best fitness model is C:\Users\hjack\OneDrive\Documents\GitHub\Drone-Fire-Detection\runs\detect\train21
+lr0: 0.00672
+momentum: 0.91355
+weight_decay: 0.00241
+hsv_s: 0.8064
+hsv_v: 0.42482
+scale: 0.38094
