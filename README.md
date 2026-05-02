@@ -1,4 +1,4 @@
-# Drone-Based Fire & Smoke Detection (YOLO)
+# Drone-Based Fire and Smoke Detection System
 
 ## Overview
 This project uses a YOLO-based object detection model to detect fire and smoke in real time. The model was trained on a custom dataset and optimized for deployment on edge devices such as the Raspberry Pi.
