@@ -19,3 +19,12 @@ This project uses a YOLO-based object detection model to detect fire and smoke i
 ## Model Performance
 - Validation mAP50: **78.3%**  
 - Test mAP50: **75.3%**
+
+## Screenshots
+
+### Drone Setup
+![Drone Image 1](hardware-demo-pics/drone_image1.jpeg)
+![Drone Image 2](hardware-demo-pics/drone_image2.jpeg)
+
+### Live Demo
+![Fire Demo](hardware-demo-pics/fire_demo.png)
