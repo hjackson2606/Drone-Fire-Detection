@@ -13,7 +13,6 @@ This project uses a YOLO-based object detection model to detect fire and smoke i
 - `yolo-fire-detection.ipynb` – Training, tuning, and evaluation notebook  
 - `Fire and Smoke Dataset/` – Dataset and labels  
 - `runs/detect/` – Training results and model outputs  
-- `yolo26n.pt` – Base pretrained model  
 - `yolo object detection/` – Raspberry Pi inference script  
 
 ## Model Performance
